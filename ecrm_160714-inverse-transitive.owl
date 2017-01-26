@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
-<rdf:RDF xmlns="http://ontologies.mpiwg-berlin.mpg/ecrm/"
-     xml:base="http://ontologies.mpiwg-berlin.mpg/ecrm/"
+<rdf:RDF xmlns="http://erlangen-crm.org/current/"
+     xml:base="http://erlangen-crm.org/current/"
      xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
      xmlns:owl="http://www.w3.org/2002/07/owl#"
      xmlns:ecrm="http://erlangen-crm.org/current/"
@@ -8,7 +8,7 @@
      xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
      xmlns:skos="http://www.w3.org/2004/02/skos/core#"
      xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
-    <owl:Ontology rdf:about="http://ontologies.mpiwg-berlin.mpg/ecrm/">
+    <owl:Ontology rdf:about="http://erlangen-crm.org/current/">
         <rdfs:comment xml:lang="en">Changelog: https://github.com/erlangen-crm/ecrm/commits/master</rdfs:comment>
         <owl:versionInfo rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ECRM 160714 / CIDOC-CRM 6.2.1</owl:versionInfo>
         <rdfs:comment xml:lang="en">Erlangen CRM / OWL - An OWL DL 1.0 implementation of the CIDOC Conceptual Reference Model, based on: Nick Crofts, Martin Doerr, Tony Gill, Stephen Stead, Matthew Stiff (eds.): Definition of the CIDOC Conceptual Reference Model (http://cidoc-crm.org/).
